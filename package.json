@@ -1,7 +1,7 @@
 {
   "name": "Zenn_Content",
   "version": "1.0.0",
-  "description": "",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide) * [📘 Markdown guide](https://zenn.dev/zenn/articles/markdown-guide)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.1.77"
-  }
+    "zenn-cli": "^0.1.81"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yothuba3/Zenn-content-Yothuba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yothuba3/Zenn-content-Yothuba/issues"
+  },
+  "homepage": "https://github.com/Yothuba3/Zenn-content-Yothuba#readme"
 }
